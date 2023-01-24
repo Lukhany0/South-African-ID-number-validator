@@ -17,3 +17,6 @@ To exit the application user needs to enter exit or click the close icon in the 
 
 <br/><br/>
 
+<img src="images/HomeScreen.png" width = 400/>
+<img src="images/invalidID.png" width = 400/>
+<img src="images/validID.png" width = 400/>
